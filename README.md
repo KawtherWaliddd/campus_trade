@@ -1,34 +1,39 @@
 #  Campus Trade App
 
-Campus Trade is a mobile application that allows **students to share or donate tools and study materials** within their university community. 
-It’s built with **Flutter**, **Firebase Authentication**, and **Cloud Firestore**, providing a simple and smooth user experience.
+Campus Trade is a mobile application that allows **students to share, donate, and browse tools and study materials** within their university community.  
+It’s built with **Flutter**, **Firebase Authentication**, and **Cloud Firestore**, providing a smooth and responsive experience.
 
 ---
+
 
 ##  Features
 
-- ✅ **Authentication**: Secure login and signup with Firebase  
-- ✅ **Add / Edit / Delete Posts**: Manage your tools or study items  
-- ✅ **Browse & Search**: Find available items in the community  
-- ✅ **Real-time Chat**: Connect with other students  
-- ✅ **Image Uploads**: Add photos for posts  
-- ✅ **Responsive UI**: Works on multiple devices  
+- ✅ **Authentication**: Login & Signup with Firebase  
+- ✅ **Home & Listings**: View all shared tools and materials  
+- ✅ **Category Filtering**: Browse items by student faculty  
+- ✅ **Search**: Find needed tools quickly  
+- ✅ **Details Screen**: See full information about each item  
+- ✅ **Notifications**: Alerts for relevant updates  
+- ✅ **Chat & Profile**: Connect with other students and manage profile  
+- ✅ **Sell Screen**: Add tools for sharing or donation  
+- ✅ **Splash Screen**: Intro screen with app branding  
+- ✅ **Responsive & Modern UI**  
 
 ---
 
-##  Technologies Used
+##  Built With
 
-- **Flutter & Dart**  
-- **Firebase Authentication**  
-- **Cloud Firestore**  
-- **Firebase Storage**  
+- Flutter & Dart  
+- Firebase Authentication  
+- Cloud Firestore  
+- Firebase Storage  
 
 ---
 
 ##  Project Overview
 
 Campus Trade was developed as a **final project for the DEPI program**.  
-It aims to **simplify sharing and donations** among students while fostering collaboration and sustainability.
+It helps students **easily share, donate, and find tools** within their university community, with features like categories, search, chat, and notifications for a complete experience.
 
 ---
 
